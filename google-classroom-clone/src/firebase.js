@@ -5,13 +5,13 @@ import 'firebase/compat/firestore';
 
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyCnHvo0uXYG9J7gA0kqL40p5brErWxG4xo",
-  authDomain: "classroom-clone-e1cc1.firebaseapp.com",
-  projectId: "classroom-clone-e1cc1",
-  storageBucket: "classroom-clone-e1cc1.appspot.com",
-  messagingSenderId: "615251772789",
-  appId: "1:615251772789:web:031bf4554cf18ac10e3f3c",
-  measurementId: "G-34ZVD330QX"
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
+  measurementId: ""
 };
 
 
